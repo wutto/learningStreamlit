@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# My first learning streamlit app.
 
-Description of the app ...
+Test test trst
 
 ## Demo App
 
