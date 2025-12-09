@@ -10,8 +10,8 @@ import pickle
 ##Module for Visualization
 import streamlit as st
 import streamlit.components.v1 as components
-#import plotly.express as px
-#import plotly.graph_objects as go
+import plotly.express as px
+import plotly.graph_objects as go
 
 ##Module for machine learning
 #from sklearn.linear_model import LinearRegression
