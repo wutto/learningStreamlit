@@ -1,1 +1,11 @@
-streamlit
+biopython @ file:///home/conda/feedstock_root/build_artifacts/biopython_1676639050243/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1668919096861/work
+pandas==1.5.3
+pandas-flavor @ file:///home/conda/feedstock_root/build_artifacts/pandas_flavor_1689008232663/work
+pandas-profiling @ file:///home/conda/feedstock_root/build_artifacts/pandas-profiling_1589366436905/work
+pandas-stubs @ file:///home/conda/feedstock_root/build_artifacts/pandas-stubs_1682984395684/work
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1691792889999/work
+streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1688771177133/work
+scikit-image @ file:///home/conda/feedstock_root/build_artifacts/scikit-image_1688804500158/work/dist/scikit_image-0.21.0-cp310-cp310-linux_x86_64.whl#sha256=00e18ef93b525ea4b62101a0ebb5d1c3d97f50cb0e823d59e42a9d97d0955f56
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1688116438223/work
+scikit-learn-intelex==20230725.122141
